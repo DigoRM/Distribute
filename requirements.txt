@@ -1,0 +1,7 @@
+smtplib
+streamlit
+numpy
+pandas
+MIMEMultipart
+MIMEApplication
+MIMEText
